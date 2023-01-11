@@ -16,10 +16,10 @@ var gloomyD = {
   up: "gloomy/gloomyUp.png"
 }
 var t = {
-  manhan : "tempo/manhan.png",
-  tarde : "tempo/Tarde.png",
-  noite : "tempo/Noite.png",
-  madrugada : "tempo/Madrugada.png"
+  manhan : "https://github.com/Isauan-Santos-da-Cruz/my-first-Javascript-game/blob/8fdb0554d4afc2df8a9da3f4eede383c327275ca/manhan.png",
+  tarde : "https://github.com/Isauan-Santos-da-Cruz/my-first-Javascript-game/blob/8fdb0554d4afc2df8a9da3f4eede383c327275ca/Tarde.png",
+  noite : "https://github.com/Isauan-Santos-da-Cruz/my-first-Javascript-game/blob/8fdb0554d4afc2df8a9da3f4eede383c327275ca/Noite.png",
+  madrugada : "https://github.com/Isauan-Santos-da-Cruz/my-first-Javascript-game/blob/8fdb0554d4afc2df8a9da3f4eede383c327275ca/Madrugada.png"
 }
 
 gloomy.src = gloomyD.front;
