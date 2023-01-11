@@ -23,8 +23,8 @@ var t = {
 }
 
 gloomy.src = gloomyD.front;
-casa.src = "cenario/House.png";
-rua.src = "cenario/road.png";
+casa.src = "https://github.com/Isauan-Santos-da-Cruz/my-first-Javascript-game/blob/42045483c1dcbc9617f41141d7d287e3497eed82/House.png";
+rua.src = "https://github.com/Isauan-Santos-da-Cruz/my-first-Javascript-game/blob/42045483c1dcbc9617f41141d7d287e3497eed82/road.png";
 
 function l(){// renderiza jogador
   d.drawImage(rua, 0, 0, 340, 220);
